@@ -1,5 +1,5 @@
-Study and Practice Strings.
+# Study and Practice Strings.
 
-Progress:
+## Progress:
 
-Status: In Progress
+## Status: In Progress
